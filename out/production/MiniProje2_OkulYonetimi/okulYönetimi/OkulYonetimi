@@ -1,0 +1,31 @@
+    BİR OKUL YÖNETİMİ PLATFORMU KODLAYINIZ.
+
+    1.  Bu programda, Öğrenci ve Öğretmen Kayıtları ile ilgili işlemler yapılabilmektedir. Kayıtlarda şu bilgiler olabilmektedir
+
+        Öğretmen: Ad-Soyad, kimlik No, yaş, bölüm ve sicil no bilgileri içermelidir.
+        Öğrenci:  Ad-Soyad, kimlik No, yaş, numara ve sınıf bilgileri içermelidir.
+
+    2.  Program başladıgında kullanıcıya öğretmen ve öğrenci işlemlerini seçebilmesi için aşağıdaki gibi bir menü gösterilsin.
+
+    =====================================
+     ÖĞRENCİ VE ÖĞRETMEN YÖNETİMİ PANELİ
+    =====================================
+    1-Öğrenci İşlemleri
+    2-Öğretmen İşlemleri
+    3-Çıkış
+
+   3.   Seçilen işleme göre aşağıdaki işlemleri gösteren bir alt menü daha gösterilsin.
+   ========İŞLEMLER========
+   1-Ekleme
+   2-Arama
+   3-Listeleme
+   4-Silme
+   Q-Çıkış
+
+   Seçiminiz:
+
+   4.   İşlemler menüsünde seçilen işleme göre bir önceki menüde seçilen kişi türü ile ilgili ekleme, kimlik no ile silme ve arama
+   var olan tüm kişileri listeleme gibi işlemler yapılsın.
+
+   NOT:Projeyi yaparken mümkün olan en kısa kodları yazmak için nesne yönelimli programlamanın bize sağladıgı imkanları kullanmaya dikkat edelim.
+
